@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/servicesweb/static/css/main.89ccf00a.css",
+    "main.js": "/servicesweb/static/js/main.da5b344d.js",
+    "static/js/488.fe19f062.chunk.js": "/servicesweb/static/js/488.fe19f062.chunk.js",
+    "static/media/icofont.woff": "/servicesweb/static/media/icofont.dad3accba068281878f1.woff",
+    "static/media/icofont.woff2": "/servicesweb/static/media/icofont.9c33516aab48c61e3081.woff2",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/servicesweb/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/servicesweb/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/servicesweb/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/servicesweb/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/servicesweb/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/servicesweb/index.html",
+    "main.89ccf00a.css.map": "/servicesweb/static/css/main.89ccf00a.css.map",
+    "main.da5b344d.js.map": "/servicesweb/static/js/main.da5b344d.js.map",
+    "488.fe19f062.chunk.js.map": "/servicesweb/static/js/488.fe19f062.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89ccf00a.css",
+    "static/js/main.da5b344d.js"
+  ]
+}
